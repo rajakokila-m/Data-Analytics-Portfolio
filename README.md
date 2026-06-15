@@ -19,7 +19,7 @@
 - Pandas
 - Matplotlib
 - SQL
-- Power BI (Learning)
+- Power BI 
 
 ## Skills
 - Data Cleaning
